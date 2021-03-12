@@ -1,0 +1,29 @@
+.Front-page__body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../../pictures/road.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.app__headline {
+    color: white;
+    margin-top: 20%;
+}
+  
+.app--btn {
+    border: none;
+    font-size: calc(10px + 2vmin);
+    padding: 30px;
+    border-radius: 40px;
+    border: solid white 3px;
+    background-color: rgba(245, 245, 245, 0.555);
+    margin: 0 auto;
+    margin-top: 1%;
+}
+
+.app--btn:focus {
+    outline: none;
+}

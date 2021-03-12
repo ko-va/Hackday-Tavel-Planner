@@ -1,0 +1,16 @@
+.country__name {
+    display: flex;
+    padding: 20px;
+    background-color: rgba(245, 245, 245, 0.719);
+    border-radius: 10px;
+    border: solid black 3px;
+    width: 140px;
+    height: 100px;
+    margin: 3%;
+    text-align: center;
+}
+
+.country__name > img {
+    display: 100vh;
+}
+

@@ -1,0 +1,36 @@
+.nav {
+  background-color: #0a0a0aa8;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+}
+
+.nav__header {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav--routes {
+  display: flex;
+  margin-left: auto;
+}
+
+.route {
+  display: flex;
+  margin-left: 1250%;
+}
+
+h1 {
+  margin: 0;
+}
+
+.logo-image {
+  margin: 10%;
+  margin-left: 20%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

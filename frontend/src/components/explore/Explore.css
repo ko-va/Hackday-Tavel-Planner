@@ -1,0 +1,50 @@
+.explore__content {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 100vh;
+    background-image: url("../../pictures/road.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.country--search-form {
+    display: flex;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 400px;
+    background-color: white;
+    border: solid black 3px;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.search__field {
+    width: 400px;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+}
+
+.search__field:focus {
+    outline: none;
+}
+
+
+.search--btn {
+    height: 36px;
+    border: none;
+    background-color: transparent;
+}
+
+.search--btn:focus {
+    outline: none;
+}
+
+.country__gallery {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
