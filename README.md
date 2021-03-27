@@ -1,7 +1,7 @@
 # Hackday-Tavel-Planner
 [Let's see places]()
 
-This is a Demo of my first ever in my life full-stack application "Tavel-Planner"
+Demo
 
 ## UI specifications
 * Landing page with the travel themed background image and a button "Explore"
